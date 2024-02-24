@@ -4,7 +4,7 @@ This is repo contains all the materials for sprint 1 (Data Analysis project) of 
 
 ## Project Objective
 
-The aim of this pup roject is to perform analysis on the Indian Start-up ecosystem and advice my company on which venture to invest in
+The aim of this roject is to perform analysis on the Indian Start-up ecosystem and advice my company on which venture to invest in
 
 ## Project Frame
 
