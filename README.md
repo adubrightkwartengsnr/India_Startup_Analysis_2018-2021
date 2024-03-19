@@ -6,6 +6,7 @@
    As team of data analysts, we are to investigate the ecosystem and propose the best course of action for our stakeholders using the data regarding funding received by startups in India from 2018-2019.
    Therefore, the aim of this project is to perform analysis on the Indian start-ups ecosystem and advice stakeholders to invest on a venture that has the potential of high profit/income.
 
+
 3. **Technologies Used**:
    The analysis of the Indian Startup Ecosystem using the 2018-2021 funding datasets was done following the CRISP-DM process. It also involved a variety of technologies, programming languages, and libraries to process, analyze, and visualize the data. The following tools were utilized:
 4. _Python_: Python programming language was the backbone of the project, used for data processing, analysis, and visualization tasks.
